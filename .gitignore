@@ -163,3 +163,5 @@ cython_debug/
 
 artifact/
 .artifact
+
+.catboost_info/
